@@ -1,0 +1,538 @@
+[
+  {
+    "category": "aqeedah",
+    "question": "Who is Allah?",
+    "answer": "Allah is the One true God who created everything. He has no parents, no children, and no equal."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What is Islam?",
+    "answer": "Islam is the religion that teaches us to worship only Allah and follow the teachings of Prophet Muhammad ﷺ."
+  },
+  {
+    "category": "aqeedah",
+    "question": "Who is Prophet Muhammad ﷺ?",
+    "answer": "He is the last prophet sent by Allah to guide people to the right path. He showed us how to live a good life."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What are the five pillars of Islam?",
+    "answer": "1. Shahada – belief in one God and Muhammad ﷺ as His messenger. 2. Salah – praying five times a day. 3. Zakat – giving to the poor. 4. Sawm – fasting in Ramadan. 5. Hajj – pilgrimage to Makkah."
+  },
+  {
+    "category": "aqeedah",
+    "question": "Where is Allah?",
+    "answer": "Allah is above the heavens, over His Throne, and He knows everything that happens everywhere."
+  },
+  {
+    "category": "aqeedah",
+    "question": "Why did Allah create us?",
+    "answer": "Allah created us to worship Him and live in a way that pleases Him."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What is Tawheed?",
+    "answer": "Tawheed means believing in the oneness of Allah — that He alone deserves to be worshiped."
+  },
+  {
+    "category": "aqeedah",
+    "question": "Can we see Allah?",
+    "answer": "We cannot see Allah in this life, but the good believers will see Him in Paradise."
+  },
+  {
+    "category": "aqeedah",
+    "question": "Does Allah know everything?",
+    "answer": "Yes, Allah knows everything — past, present, and future. Nothing is hidden from Him."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What happens after we die?",
+    "answer": "After we die, we will be raised again for the Day of Judgment. Allah will reward or punish based on what we did."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What is Aqeedah?",
+    "answer": "Aqeedah is the set of beliefs that Muslims have about Allah, the Prophets, the Day of Judgment, angels, and other important Islamic concepts. It helps us understand the world and our place in it."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What is the most important belief in Aqeedah?",
+    "answer": "The belief in Allah — that He is the one and only God, the Creator of everything, all-knowing, all-powerful, and all-merciful."
+  },
+  {
+    "category": "aqeedah",
+    "question": "Who are the Prophets in Islam?",
+    "answer": "Prophets are chosen by Allah to guide people. They include Adam, Noah, Abraham, Moses, Jesus, and Muhammad (peace be upon them all)."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What is the Day of Judgment?",
+    "answer": "It is the day when Allah will judge all people according to their deeds. Good people will enter Paradise, and wrongdoers will be punished."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What do Muslims believe about angels?",
+    "answer": "Angels are created by Allah to serve Him and follow His commands. They do not disobey and are made of light."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What is the Quran?",
+    "answer": "The Quran is the holy book revealed to Prophet Muhammad ﷺ. It is the final and complete guidance from Allah."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What are the Six Pillars of Imaan?",
+    "answer": "Belief in Allah, His angels, His books, His prophets, the Day of Judgment, and Divine Decree (Qadr)."
+  },
+  {
+    "category": "aqeedah",
+    "question": "What is the difference between Lordship and Worship?",
+    "answer": "Lordship (Rububiyyah) is believing that Allah is the Creator and Sustainer. Worship (Ubudiyyah) is obeying and worshiping Allah as our only God."
+  },
+ {
+    "category": "daily_dua",
+    "title": "Dua before eating",
+    "arabic": "بِسْمِ اللَّهِ",
+    "translation": "In the name of Allah",
+    "usage": "Say this before starting a meal",
+     "audio": "audio/dua_before_eating.mp3"
+  },
+  {
+    "category": "daily_dua",
+    "title": "Before Sleeping",
+    "arabic": "اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا",
+    "translation": "Oh Allah, with Your name I die and I live.",
+    "context": "Say this before going to sleep."
+  },
+  {
+    "category": "daily_dua",
+    "title": "After Waking Up",
+    "arabic": "الْـحَمْـدُ للهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "translation": "Praise is to Allah Who gives us life after He has caused us to die and to Him is the return.",
+    "context": "Say this when you wake up."
+  },
+  {
+    "category": "daily_dua",
+    "title": "Before Entering the Bathroom",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "translation": "Oh Allah, I seek refuge in You from male and female devils.",
+    "context": "Say this before going into the bathroom."
+  },
+  {
+    "category": "daily_dua",
+    "title": "After Leaving the Bathroom",
+    "arabic": "غُفْرَانَكَ",
+    "translation": "I seek Your forgiveness.",
+    "context": "Say this after leaving the bathroom."
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua for Parents",
+    "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+    "translation": "My Lord, have mercy upon them as they brought me up [when I was] small.",
+    "context": "Recite this dua when praying for your parents."
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua for Entering the Masjid",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "translation": "Oh Allah, open the doors of Your mercy for me.",
+    "context": "Say this when entering the Masjid."
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua for Leaving the Masjid",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "translation": "Oh Allah, I ask You from Your favor.",
+    "context": "Say this when leaving the Masjid."
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua Before Travelling",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ",
+    "translation": "Glory to Him who has brought this (vehicle) under our control, though we were unable to control it (ourselves), and indeed, to our Lord we will surely return.",
+    "context": "Say this before starting a journey or boarding a vehicle."
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua after eating",
+    "arabic": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِيْنَ.",
+    "translation": "All praise is for Allah who fed us, gave us drink, and made us Muslims",
+    "usage": "Say this after finishing your meal",
+    "audio": "audio/dua_after_eating.mp3"
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua when waking up",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "translation": "All praise is for Allah who gave us life after death, and to Him is the return",
+    "usage": "Say this when you wake up"
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua before sleeping",
+    "arabic": "اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا",
+    "translation": "O Allah, in Your name I die and I live",
+    "usage": "Say this before going to sleep"
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua before entering the bathroom",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "translation": "O Allah, I seek refuge in You from evil and the male and female devils",
+    "usage": "Say this before entering the bathroom"
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua after leaving the bathroom",
+    "arabic": "غُفْرَانَكَ",
+    "translation": "I seek Your forgiveness",
+    "usage": "Say this when you leave the bathroom"
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua when leaving the house",
+    "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "translation": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah",
+    "usage": "Say this when stepping out of the house"
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua when entering the masjid",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "translation": "O Allah, open the doors of Your mercy for me",
+    "usage": "Say this upon entering a mosque"
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua when leaving the masjid",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "translation": "O Allah, I ask You from Your bounty",
+    "usage": "Say this when leaving a mosque"
+  },
+  {
+    "category": "daily_dua",
+    "title": "Dua for knowledge",
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "translation": "My Lord, increase me in knowledge",
+    "usage": "Say this before learning or studying"
+  },
+  {
+    "category": "prophet_story",
+    "prophet": "Prophet Adam (AS)",
+    "title": "The First Human",
+    "summary": "Allah created Prophet Adam (AS) as the first human. He lived in Jannah and was taught many things by Allah. But when he and Hawwa (Eve) ate from the forbidden tree, they were sent to Earth. Allah still loved them and showed them how to ask for forgiveness."
+  },
+  {
+    "category": "prophet_story",
+    "prophet": "Prophet Nuh (AS)",
+    "title": "The Great Ark",
+    "summary": "Prophet Nuh (AS) told people to worship only Allah. But many did not listen. Allah told Nuh to build a big boat (ark). He took animals and his followers on it. Then a huge flood came and only those on the ark were saved."
+  },
+  {
+    "category": "prophet_story",
+    "prophet": "Prophet Ibrahim (AS)",
+    "title": "The Friend of Allah",
+    "summary": "Prophet Ibrahim (AS) believed in one God while everyone else worshipped idols. He broke the idols to show they could not do anything. Allah saved him from fire. Later, he was tested to sacrifice his son, and he passed the test. Allah replaced the son with a ram."
+  },
+  {
+    "category": "prophet_story",
+    "prophet": "Prophet Musa (AS)",
+    "title": "Parting the Sea",
+    "summary": "Prophet Musa (AS) was sent to guide Pharaoh and his people. When Pharaoh refused, Allah helped Musa and his people escape. Musa parted the Red Sea with Allah’s help, and they crossed safely. Pharaoh and his army drowned."
+  },
+  {
+    "category": "prophet_story",
+    "prophet": "Prophet Yunus (AS)",
+    "title": "In the Belly of the Whale",
+    "summary": "Prophet Yunus (AS) left his people too early and was swallowed by a big fish. Inside the belly, he prayed and said 'There is no god but You, Glory be to You!' Allah forgave him and made the fish release him safely."
+  },
+  {
+    "category": "prophet_story",
+    "prophet": "Prophet Isa (AS)",
+    "title": "The Miraculous Birth",
+    "summary": "Prophet Isa (AS), also known as Jesus, was born without a father. His mother was Maryam. He spoke as a baby and did miracles by Allah’s will, like healing the sick. He told people to worship Allah. He was not killed but raised to the heavens."
+  },
+  {
+    "category": "prophet_story",
+    "prophet": "Prophet Muhammad (SAW)",
+    "title": "The Final Messenger",
+    "summary": "Prophet Muhammad (SAW) was born in Makkah. He was honest and kind. At age 40, he received the first revelation from Allah. He taught people to worship one God and be kind. He is the last prophet and a role model for all Muslims."
+  },
+  {
+    "category": "hadith_akhlaq",
+    "title": "Kindness",
+    "hadith": "The Prophet ﷺ said: 'Kindness is a mark of faith, and whoever is not kind has no faith.'",
+    "source": "Muslim"
+  },
+  {
+    "category": "hadith_akhlaq",
+    "title": "Truthfulness",
+    "hadith": "The Prophet ﷺ said: 'Truth leads to righteousness, and righteousness leads to Paradise.'",
+    "source": "Bukhari & Muslim"
+  },
+  {
+    "category": "hadith_akhlaq",
+    "title": "Respecting Elders",
+    "hadith": "The Prophet ﷺ said: 'He is not one of us who does not have mercy on our young and respect for our elders.'",
+    "source": "Tirmidhi"
+  },
+  {
+    "category": "hadith_akhlaq",
+    "title": "Smiling",
+    "hadith": "The Prophet ﷺ said: 'Your smile for your brother is charity.'",
+    "source": "Tirmidhi"
+  },
+  {
+    "category": "hadith_akhlaq",
+    "title": "Helping Others",
+    "hadith": "The Prophet ﷺ said: 'Allah helps the servant as long as the servant helps his brother.'",
+    "source": "Muslim"
+  },
+  {
+    "category": "hadith_akhlaq",
+    "title": "Avoiding Anger",
+    "hadith": "A man said to the Prophet ﷺ: 'Advise me.' The Prophet said: 'Do not get angry.' He repeated it multiple times.",
+    "source": "Bukhari"
+  },
+  {
+    "category": "hadith_akhlaq",
+    "title": "Good Manners",
+    "hadith": "The Prophet ﷺ said: 'The best among you are those who have the best manners and character.'",
+    "source": "Bukhari"
+  },
+  {
+    "category": "adab_manners",
+    "title": "Respecting Parents",
+    "teaching": "Always listen to your parents, speak kindly, and help them when they need you.",
+    "example": "Say 'JazakAllah Khayr' when your parents help you, and never shout at them."
+  },
+  {
+    "category": "adab_manners",
+    "title": "Being Kind to Guests",
+    "teaching": "When guests come to your home, greet them warmly and offer them food or water.",
+    "example": "Say 'Assalamu Alaikum' and offer them a seat with a smile."
+  },
+  {
+    "category": "adab_manners",
+    "title": "Caring for Animals",
+    "teaching": "Treat animals gently. Do not hit or scare them. Give them food and water if they are hungry.",
+    "example": "The Prophet ﷺ once told of a man who was forgiven by Allah for giving water to a thirsty dog."
+  },
+  {
+    "category": "adab_manners",
+    "title": "Speaking Politely",
+    "teaching": "Use kind words. Say please, thank you, and sorry when needed.",
+    "example": "Say 'Alhamdulillah' when you are happy and 'Astaghfirullah' when you make a mistake."
+  },
+  {
+    "category": "adab_manners",
+    "title": "Waiting for Your Turn",
+    "teaching": "Do not interrupt others when they are speaking or rush in line.",
+    "example": "Raise your hand in class instead of shouting out loud."
+  },
+  {
+    "category": "adab_manners",
+    "title": "Cleanliness",
+    "teaching": "Keeping yourself and your surroundings clean is part of faith.",
+    "example": "Brush your teeth, wash your hands before eating, and wear clean clothes."
+  },
+  {
+    "category": "islamic_value",
+    "value": "Patience (Sabr)",
+    "description": "Patience means staying calm when things don’t go your way and trusting Allah’s plan.",
+    "example": "When you lose a toy or don’t win a game, don’t get angry. Say 'Alhamdulillah' and try again.",
+    "hadith": "The Prophet ﷺ said: 'Whoever remains patient, Allah will make him patient. No one is given a gift better and more vast than patience.' (Bukhari)"
+  },
+  {
+    "category": "islamic_value",
+    "value": "Honesty (Sidq)",
+    "description": "Honesty means always telling the truth and keeping your promises.",
+    "example": "If you break something, tell the truth about it even if you’re scared.",
+    "hadith": "The Prophet ﷺ said: 'Truthfulness leads to righteousness, and righteousness leads to Paradise.' (Bukhari & Muslim)"
+  },
+  {
+    "category": "islamic_value",
+    "value": "Gratitude (Shukr)",
+    "description": "Gratitude means thanking Allah for everything you have.",
+    "example": "Say 'Alhamdulillah' when you get food, toys, or help from others.",
+    "hadith": "The Prophet ﷺ said: 'He who does not thank people, does not thank Allah.' (Ahmad, Tirmidhi)"
+  },
+  {
+    "category": "islamic_value",
+    "value": "Generosity (Karam)",
+    "description": "Generosity means sharing what you have with others, especially those in need.",
+    "example": "Share your snacks or toys with friends and those who don’t have any.",
+    "hadith": "The Prophet ﷺ said: 'The believer’s shade on the Day of Resurrection will be his charity.' (Tirmidhi)"
+  },
+  {
+    "category": "islamic_value",
+    "value": "Forgiveness (Afw)",
+    "description": "Forgiveness means letting go of anger when someone hurts you.",
+    "example": "If someone says sorry, forgive them and don’t stay upset.",
+    "hadith": "The Prophet ﷺ said: 'Be merciful to others and you will receive mercy.' (Tirmidhi)"
+  },
+  {
+    "category": "general_knowledge",
+    "question": "Why is the sky blue?",
+    "answer": "The sky looks blue because sunlight hits the air and the blue light scatters more than other colors."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "How do birds fly?",
+    "answer": "Birds fly by flapping their wings and using the air to lift themselves up."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "What makes rain?",
+    "answer": "Rain happens when clouds get heavy with water droplets and the water falls down to the ground."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "Why do we brush our teeth?",
+    "answer": "We brush our teeth to remove germs and keep our mouth clean and healthy."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "What is the biggest animal in the world?",
+    "answer": "The blue whale is the biggest animal in the world. It can be longer than a school bus!"
+  },
+  {
+    "category": "general_knowledge",
+    "question": "Why do we sleep?",
+    "answer": "We sleep so our bodies and brains can rest and grow strong for the next day."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "How do plants grow?",
+    "answer": "Plants grow by using sunlight, water, and soil. This process is called photosynthesis."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "What do bees do?",
+    "answer": "Bees collect nectar from flowers to make honey. They also help plants grow by spreading pollen."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "What is the sun?",
+    "answer": "The sun is a giant ball of hot gas that gives us light and heat."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "How do we hear sounds?",
+    "answer": "Our ears catch sound waves and send messages to our brain so we can hear."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "Why do cats purr?",
+    "answer": "Cats purr when they are happy or feel safe, and sometimes to heal themselves."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "What do fish use to breathe?",
+    "answer": "Fish use gills to breathe. Gills take in oxygen from the water."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "Why do we need to drink water?",
+    "answer": "Water keeps our body working properly. It helps with digestion, temperature, and energy."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "What is a rainbow?",
+    "answer": "A rainbow is made when sunlight passes through raindrops and bends into colors."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "Why do leaves fall in autumn?",
+    "answer": "Leaves fall in autumn because trees get ready to rest in winter and stop making food."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "What is the moon made of?",
+    "answer": "The moon is made of rock and dust. It has mountains, valleys, and craters."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "Why do we have seasons?",
+    "answer": "We have seasons because the Earth tilts as it moves around the sun."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "What does the heart do?",
+    "answer": "The heart pumps blood all around your body to keep you alive and healthy."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "How does a plant drink water?",
+    "answer": "Plants use their roots to absorb water from the soil and send it to the leaves."
+  },
+  {
+    "category": "general_knowledge",
+    "question": "What is the tallest animal?",
+    "answer": "The giraffe is the tallest animal. Its long neck helps it reach leaves high in trees."
+  },
+  {
+    "category": "hygiene",
+    "question": "What is Wudu?",
+    "answer": "Wudu is a special way of cleaning ourselves before praying. We wash our hands, mouth, nose, face, arms, head, and feet. It helps us stay clean and ready to pray to Allah."
+  },
+  {
+    "category": "dua",
+    "title": "Dua after Wudu",
+    "arabic": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "translation": "I bear witness that there is no god but Allah alone; He has no partner. And I bear witness that Muhammad is His servant and Messenger.",
+    "usage": "Say this after completing Wudu (ablution). It brings great reward and opens the doors of Paradise."
+  },
+  {
+    "category": "practice",
+    "title": "How to Pray (Salah)",
+    "steps": [
+      "Do Wudu (ablution) to be clean.",
+      "Face the Qiblah (Kaaba).",
+      "Make the intention to pray.",
+      "Say 'Allahu Akbar' and start your prayer.",
+      "Recite Surah Al-Fatiha and another surah.",
+      "Bow (Ruku), then stand up.",
+      "Prostrate (Sujood), then sit, and do it again.",
+      "At the end, say the Tashahhud and Salam to finish."
+    ],
+    "note": "Praying five times a day brings us closer to Allah."
+  },
+  {
+    "category": "practice",
+    "title": "How to Fast in Ramadan",
+    "steps": [
+      "Make the intention to fast before Fajr.",
+      "Eat Suhoor (pre-dawn meal).",
+      "Do not eat, drink, or be unkind from Fajr to Maghrib.",
+      "Break your fast with dates and water at Maghrib.",
+      "Pray and thank Allah for helping you fast."
+    ],
+    "note": "Fasting teaches us patience and helps us feel for the poor."
+  },
+  {
+    "category": "practice",
+    "title": "How to Give Zakat",
+    "steps": [
+      "Check if you have enough savings (Nisab).",
+      "Calculate 2.5% of your saved money.",
+      "Give that amount to those in need: the poor, orphans, or people in difficulty.",
+      "Do it with kindness and only for Allah’s sake."
+    ],
+    "note": "Zakat purifies our money and helps our Muslim community."
+  },
+  {
+    "category": "practice",
+    "title": "How to Perform Wudu",
+    "steps": [
+      "Say Bismillah.",
+      "Wash your hands three times.",
+      "Rinse your mouth and nose.",
+      "Wash your face and arms up to the elbows.",
+      "Wipe your head and ears.",
+      "Wash your feet up to the ankles."
+    ],
+    "note": "Wudu makes us clean for prayer and closer to Allah."
+  }
+]

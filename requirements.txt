@@ -1,0 +1,10 @@
+streamlit
+pyttsx3
+pyaudio
+pandas
+streamlit_webrtc
+sounddevice 
+scipy
+sounddevice 
+scipy 
+vosk 

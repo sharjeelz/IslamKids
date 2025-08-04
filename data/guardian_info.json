@@ -1,0 +1,11 @@
+{
+  "guardian_name": "XXXXX",
+  "relationship": "Mother",
+  "phone": "XXXXX",
+  "emergency_contact": {
+    "name": "XXXXX",
+    "relationship": "Father",
+    "phone": "CCCCC"
+  },
+  "address": "Riyadh, Saudi Arabia"
+}
